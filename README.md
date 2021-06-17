@@ -9,6 +9,7 @@ For further reference, please consider the following sections:
 ### Guides
 The following guides illustrate how to use some features concretely:
 
-* [Gustavo Peiretti](https://gustavopeiretti.com)
+* [Kafka Example Tutorial](https://gustavopeiretti.com/configuring-kafka-and-springBoot/)
+* [Kafka Example Tutorial - Spanish](https://gustavopeiretti.com/configurar-kafka-en-spring-boot/)
 
 
